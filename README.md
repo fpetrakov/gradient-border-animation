@@ -1,6 +1,6 @@
 # gradient-border-animation
 
-@property not working in all browsers yet, so it's better to check it out in latest chrome
+@property is not working in all browsers yet, so it's better to check it out in the latest chrome
 
 https://gradient-border-animation.vercel.app/
 
